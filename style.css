@@ -1,0 +1,294 @@
+body{
+    background-size: none;
+}
+#Tem{
+    position: absolute;
+    left: 51.9vw;
+    top: 21.7vw;
+    transition: 1s;
+}
+#NTem{
+    position: absolute;
+    left: 45.7vw;
+    top: 21.7vw ;
+}
+#TEXTO1{
+    position: absolute;
+    left: 38vw;
+    top: 17.7vw ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+#PALMEIRAS{
+    background-color: red;
+    border: 0.7vw rgb(255, 255, 255) solid;
+    height: 22vw;
+    width: 31vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: absolute;
+    left: 35vw;
+    top: 12vw;
+    display: none;
+    transition: 2s;
+}
+#txt{
+    font-size: 1.5vw;
+    padding-left: 1vw;
+    
+}
+
+#Neto{
+    padding-left: 3vw;
+    width: 25vw;
+}
+
+@media screen and (max-width: 200px) {
+    body{
+        background-size: cover;
+    }
+    #TEXTO1{
+        position: absolute;
+        left: 9vw;
+        top: 60vw ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 6vw;
+    }
+
+    #Tem{
+        position: absolute;
+        left: 9vw;
+        top: 83vw ;
+    }
+
+    #NTem{
+        position: absolute;
+        left: 50vw;
+        top: 83vw ;
+        width: 40vw;
+    }
+
+    #PALMEIRAS{
+        background-color: red;
+        border: 0.7vw rgb(255, 255, 255) solid;
+        height: 70vw;
+        width: 82vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        position: absolute;
+        left: 9vw;
+        top: 90vw;
+        display: none;
+    }
+    #txt{
+        font-size: 6vw;
+        padding-left: 4vw;
+        
+    }
+    
+    #Neto{
+        padding-left: 3vw;
+        width: 75vw;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    body{
+        background-size: cover;
+    }
+    #TEXTO1{
+        position: absolute;
+        left: 9vw;
+        top: 60vw ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 6vw;
+    }
+
+    #Tem{
+        position: absolute;
+        left: 9vw;
+        top: 83vw ;
+    }
+
+    #NTem{
+        position: absolute;
+        left: 50vw;
+        top: 83vw ;
+        width: 40vw;
+    }
+
+    #PALMEIRAS{
+        background-color: red;
+        border: 0.7vw rgb(255, 255, 255) solid;
+        height: 70vw;
+        width: 82vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        position: absolute;
+        left: 9vw;
+        top: 90vw;
+        display: none;
+    }
+    #txt{
+        font-size: 6vw;
+        padding-left: 4vw;
+        
+    }
+    
+    #Neto{
+        padding-left: 3vw;
+        width: 75vw;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    body{
+        background-size: cover;
+    }
+    #TEXTO1{
+        position: absolute;
+        left: 9vw;
+        top: 60vw ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 6vw;
+    }
+
+    #Tem{
+        position: absolute;
+        left: 9vw;
+        top: 83vw ;
+        font-size: 5vw;
+    }
+
+    #NTem{
+        position: absolute;
+        left: 50vw;
+        top: 83vw ;
+        width: 40vw;
+        font-size: 5vw;
+    }
+
+    #PALMEIRAS{
+        background-color: red;
+        border: 0.7vw rgb(255, 255, 255) solid;
+        height: 70vw;
+        width: 82vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        position: absolute;
+        left: 9vw;
+        top: 70vw;
+        display: none;
+    }
+    #txt{
+        font-size: 6vw;
+        padding-left: 4vw;
+        
+    }
+    
+    #Neto{
+        padding-left: 3vw;
+        width: 75vw;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    body{
+        background-size: cover;
+    }
+    #TEXTO1{
+        position: absolute;
+        left: 9vw;
+        top: 60vw ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 6vw;
+    }
+
+    #Tem{
+        position: absolute;
+        left: 9vw;
+        top: 83vw ;
+        font-size: 5vw;
+    }
+
+    #NTem{
+        position: absolute;
+        left: 50vw;
+        top: 83vw ;
+        width: 40vw;
+        font-size: 5vw;
+    }
+
+    #PALMEIRAS{
+        background-color: red;
+        border: 0.7vw rgb(255, 255, 255) solid;
+        height: 70vw;
+        width: 82vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        position: absolute;
+        left: 9vw;
+        top: 70vw;
+        display: none;
+    }
+    #txt{
+        font-size: 6vw;
+        padding-left: 4vw;
+        
+    }
+    
+    #Neto{
+        padding-left: 3vw;
+        width: 75vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        background-size: cover;
+    }
+    #TEXTO1{
+        position: absolute;
+        left: 9vw;
+        top: 60vw ;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+        font-size: 6vw;
+    }
+
+    #Tem{
+        position: absolute;
+        left: 9vw;
+        top: 83vw ;
+        font-size: 5vw;
+    }
+
+    #NTem{
+        position: absolute;
+        left: 50vw;
+        top: 83vw ;
+        width: 40vw;
+        font-size: 5vw;
+    }
+
+    #PALMEIRAS{
+        background-color: red;
+        border: 0.7vw rgb(255, 255, 255) solid;
+        height: 70vw;
+        width: 82vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        position: absolute;
+        left: 9vw;
+        top: 70vw;
+        display: none;
+    }
+    #txt{
+        font-size: 6vw;
+        padding-left: 4vw;
+        
+    }
+    
+    #Neto{
+        padding-left: 3vw;
+        width: 75vw;
+    }
+}
